@@ -1,4 +1,4 @@
-| Decision point | Proposed approach for BBR Academy |
+| Decision point | Proposed approach for the Academy |
 | --- | --- |
 | **One task where an AI draft may help** | Draft a reply to a learner asking when applications close, using the academy’s approved program information. |
 | **One choice AI must not make on its own** | An authorised staff member decides whether the final reply is ready to send. |
